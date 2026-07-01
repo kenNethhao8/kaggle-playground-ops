@@ -1,0 +1,7 @@
+interface:
+  display_name: "Kaggle Playground Ops"
+  short_description: "Run robust Kaggle competition operations"
+  default_prompt: "Use $kaggle-playground-ops to audit my competition and choose two final submissions."
+
+policy:
+  allow_implicit_invocation: true
